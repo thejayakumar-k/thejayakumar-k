@@ -28,11 +28,6 @@
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### ☁️ DevOps & Cloud
-<p>
-<img src="https://skillicons.dev/icons?i=githubactions" />
-</p>
-
 ---
 
 - Built a **full-stack application with separate frontend & backend architecture**
